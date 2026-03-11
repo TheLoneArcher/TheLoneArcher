@@ -37,6 +37,8 @@ I am the class representative of CSE-CIC batch 2023-2027, I'm active in many of 
 
 I love music and am a hobby guitarist. I enjoy a good game of chess every now and then. I often engage in debates and public speaking activities, and am passionate about art. 
 
+![giphy](https://github.com/user-attachments/assets/1f75b8cd-9269-4b0e-8c13-5f9547b36042)
+
 ---
 
 ## 📫 Connect with Me
