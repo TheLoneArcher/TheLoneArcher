@@ -23,28 +23,11 @@ I am the class representative of CSE-CIC batch 2023-2027, I'm active in many of 
 <img src="https://github.com/user-attachments/assets/6136600a-95b6-4126-b720-fa5e976c6dab" alt="Dart" style="height:3rem; background:transparent; margin-right:2rem;"> 
 <img src="https://github.com/user-attachments/assets/24cb5ad1-9323-4a7b-a961-13f9641b73e7" alt="Kali" style="height:3rem; background:transparent; margin-right:2rem;"> 
 
----
-
-### 🔭 Currently Working On:
-
-- Python Essentials
-- Ethical Hacking
-- Academics 
-
----
-
 ### 🎧 About Me:
 
-I love music and am a hobby guitarist. I enjoy a good game of chess every now and then. I often engage in debates and public speaking activities, and am passionate about art. 
+I love music and am a hobby guitarist. I enjoy a good game of chess every now and then. I often engage in debates and public speaking activities, and am passionate about art.
 
 ![giphy](https://github.com/user-attachments/assets/1f75b8cd-9269-4b0e-8c13-5f9547b36042)
-
----
-
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ushasree-poola/)
-
----
 
 #### ~ Usha
 
